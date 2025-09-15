@@ -1,3 +1,6 @@
+# git commit -m "kiwi"
+# git push -u origin main   
+
 def kiwi(i):
     if type(i) is type(1):
         return i
