@@ -1,3 +1,4 @@
+# git add .
 # git commit -m "kiwi"
 # git push -u origin main   
 
